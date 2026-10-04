@@ -1,3 +1,5 @@
+> **New (Oct 2026):** the working rebuild lives in [`app/`](app/README.md). It uses real UK Power Networks data, flood scenarios, live faults and a responsive 2D/3D map. Everything below describes the earlier experiments.
+
 # CreDayo - Infrastructure Resilience Platform
 
 Interactive cascade simulation platform for electrical grid analysis with 2D/3D visualization.
